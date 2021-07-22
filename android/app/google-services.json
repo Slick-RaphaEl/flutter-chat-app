@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "96200907285",
+    "project_id": "chat-app-messenger-copy",
+    "storage_bucket": "chat-app-messenger-copy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96200907285:android:26a8c0fc1cbee47b838c1c",
+        "android_client_info": {
+          "package_name": "com.example.vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96200907285-kvfvs2vdldcg0sqfl8j2tuk030a3t4qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vendor_app",
+            "certificate_hash": "fed96852a9470f990fab163e0c4605e726c411b6"
+          }
+        },
+        {
+          "client_id": "96200907285-s8cdg69ougvs8710fbh2jcmhubnuogv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9rEKgml3mZ7Ay0s2RvDNIvFSgogx_4MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96200907285-s8cdg69ougvs8710fbh2jcmhubnuogv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
